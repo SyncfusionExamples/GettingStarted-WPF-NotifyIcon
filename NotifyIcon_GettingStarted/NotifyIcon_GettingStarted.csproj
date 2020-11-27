@@ -106,18 +106,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="images\sync_1.ico" />
-    <Resource Include="images\sync_1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="images\notify.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="images\notify1.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="images\notifyicon.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
